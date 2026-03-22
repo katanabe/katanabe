@@ -1,19 +1,18 @@
-### Hi there 👋
+## Hi, I'm katanabe 👋
 
-<!--
-**katanabe/katanabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer @ [ttti llc.](https://ttti.jp) · Tokyo
 
-Here are some ideas to get you started:
+Building things with TypeScript, Vue, Python, and whatever gets the job done.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Recent Activity
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=katanabe&show_icons=true&count_private=true&custom_title=katanabe%27s%20Github%20Stats&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katanabe&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+### Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=katanabe&show_icons=true&count_private=true&theme=github_dark&hide_border=true&hide_title=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=katanabe&show_icons=true&count_private=true&theme=default&hide_border=true&hide_title=true" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=katanabe&show_icons=true&count_private=true&theme=default&hide_border=true&hide_title=true" />
+</picture>
