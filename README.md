@@ -4,10 +4,21 @@ Software Engineer @ [ttti llc.](https://ttti.jp) · Tokyo
 
 Building things with TypeScript, Vue, Python, and whatever gets the job done.
 
-### Recent Activity
+### Now
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!-- now starts -->
+- [wasm-3d-playground](https://github.com/katanabe/wasm-3d-playground)
+- [sector-lead-lag](https://github.com/katanabe/sector-lead-lag) — US sector signals predict next-day Japanese sector returns via regularized PCA
+- [threejs-playground](https://github.com/katanabe/threejs-playground) — playground of three.js
+- [nextjs-mdx-multibyte-bug](https://github.com/katanabe/nextjs-mdx-multibyte-bug) — Reproduction: Next.js 16.1.x SWC panic with multibyte characters (e.g., Japanese) in MDX files
+- [cache-handler-redis-app](https://github.com/katanabe/cache-handler-redis-app)
+<!-- now ends -->
+
+### Interests
+
+<!-- interests starts -->
+css · dockerfile · javascript · python · typescript · vim script
+<!-- interests ends -->
 
 ### Stats
 
