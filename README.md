@@ -7,10 +7,10 @@ Building things with TypeScript, Vue, Python, and whatever gets the job done.
 ### Now
 
 <!-- now starts -->
+- [threejs-playground](https://github.com/katanabe/threejs-playground) — playground of three.js
 - [gl-transition-playground](https://github.com/katanabe/gl-transition-playground)
 - [wasm-3d-playground](https://github.com/katanabe/wasm-3d-playground)
 - [sector-lead-lag](https://github.com/katanabe/sector-lead-lag) — US sector signals predict next-day Japanese sector returns via regularized PCA
-- [threejs-playground](https://github.com/katanabe/threejs-playground) — playground of three.js
 - [nextjs-mdx-multibyte-bug](https://github.com/katanabe/nextjs-mdx-multibyte-bug) — Reproduction: Next.js 16.1.x SWC panic with multibyte characters (e.g., Japanese) in MDX files
 <!-- now ends -->
 
