@@ -17,7 +17,7 @@ Building things with TypeScript, Vue, Python, and whatever gets the job done.
 ### Interests
 
 <!-- interests starts -->
-css · dockerfile · glsl · javascript · python · ruby · typescript
+css · dockerfile · glsl · javascript · python · typescript
 <!-- interests ends -->
 
 ### Stats
