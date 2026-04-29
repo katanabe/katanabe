@@ -7,8 +7,8 @@ Building things with TypeScript, Vue, Python, and whatever gets the job done.
 ### Now
 
 <!-- now starts -->
-- [rails-blog](https://github.com/katanabe/rails-blog)
 - [dotfiles](https://github.com/katanabe/dotfiles) — chezmoi managed dotfiles
+- [rails-blog](https://github.com/katanabe/rails-blog)
 - [threejs-playground](https://github.com/katanabe/threejs-playground) — playground of three.js
 - [gl-transition-playground](https://github.com/katanabe/gl-transition-playground)
 - [wasm-3d-playground](https://github.com/katanabe/wasm-3d-playground)
@@ -17,7 +17,7 @@ Building things with TypeScript, Vue, Python, and whatever gets the job done.
 ### Interests
 
 <!-- interests starts -->
-css · dockerfile · glsl · javascript · python · ruby · typescript
+css · dockerfile · glsl · go template · javascript · python · ruby · typescript
 <!-- interests ends -->
 
 ### Stats
