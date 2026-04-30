@@ -12,9 +12,9 @@
     <text x="40" y="108" font-family="'Courier New',Courier,monospace" font-size="10" fill="#88C0D0" letter-spacing="3">NOW</text>
     <text x="410" y="108" font-family="'Courier New',Courier,monospace" font-size="10" fill="#88C0D0" letter-spacing="3">STACK</text>
 
-    <text x="40" y="128" font-family="'Courier New',Courier,monospace" font-size="13" fill="#D8DEE9">› rails-blog</text>
-    <text x="40" y="148" font-family="'Courier New',Courier,monospace" font-size="13" fill="#D8DEE9">› dotfiles</text>
-    <text x="40" y="168" font-family="'Courier New',Courier,monospace" font-size="13" fill="#D8DEE9">› threejs-playground</text>
+    <text x="40" y="128" font-family="'Courier New',Courier,monospace" font-size="13" fill="#D8DEE9">› hono-inertia-blog</text>
+    <text x="40" y="148" font-family="'Courier New',Courier,monospace" font-size="13" fill="#D8DEE9">› rails-blog</text>
+    <text x="40" y="168" font-family="'Courier New',Courier,monospace" font-size="13" fill="#D8DEE9">› dotfiles</text>
 
     <text x="410" y="128" font-family="'Courier New',Courier,monospace" font-size="13" fill="#D8DEE9">TypeScript · Vue · Python</text>
     <text x="410" y="148" font-family="'Courier New',Courier,monospace" font-size="13" fill="#4C566A">css · glsl · go template</text>
@@ -24,16 +24,16 @@
 
     <text x="40" y="203" font-family="'Courier New',Courier,monospace" font-size="10" fill="#88C0D0" letter-spacing="3">STATS</text>
 
-    <text x="125" y="228" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="20" font-weight="bold" fill="#D8DEE9">157</text>
+    <text x="125" y="228" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="20" font-weight="bold" fill="#D8DEE9">-</text>
     <text x="125" y="246" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4C566A">commits</text>
     <rect x="210" y="210" width="1" height="42" fill="#3B4252"/>
     <text x="295" y="228" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="20" font-weight="bold" fill="#D8DEE9">0</text>
     <text x="295" y="246" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4C566A">stars</text>
     <rect x="380" y="210" width="1" height="42" fill="#3B4252"/>
-    <text x="465" y="228" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="20" font-weight="bold" fill="#D8DEE9">5</text>
+    <text x="465" y="228" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="20" font-weight="bold" fill="#D8DEE9">-</text>
     <text x="465" y="246" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4C566A">PRs</text>
     <rect x="550" y="210" width="1" height="42" fill="#3B4252"/>
-    <text x="635" y="228" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="20" font-weight="bold" fill="#D8DEE9">17</text>
+    <text x="635" y="228" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="20" font-weight="bold" fill="#D8DEE9">18</text>
     <text x="635" y="246" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4C566A">repos</text>
 
     <rect x="40" y="262" width="700" height="1" fill="#3B4252"/>
