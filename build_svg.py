@@ -47,11 +47,14 @@ def fetch_stats(repos: list[dict]) -> dict:
     try:
         with urllib.request.urlopen(req) as resp:
             data = json.loads(resp.read())
-        u = data["data"]["user"]
-        base["commits"] = u["contributionsCollection"]["totalCommitContributions"]
-        base["prs"] = u["pullRequests"]["totalCount"]
-    except Exception:
-        pass
+        if "errors" in data:
+            print(f"GraphQL errors: {data['errors']}", flush=True)
+        else:
+            u = data["data"]["user"]
+            base["commits"] = u["contributionsCollection"]["totalCommitContributions"]
+            base["prs"] = u["pullRequests"]["totalCount"]
+    except Exception as e:
+        print(f"GraphQL fetch failed: {e}", flush=True)
     return base
 
 
@@ -102,15 +105,10 @@ def render_svg(now: list[str], interests: str, stats: dict) -> str:
     i = html.escape(interests)
 
     return f"""<svg width="780" height="392" viewBox="0 0 780 392" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <clipPath id="clip">
-      <rect width="780" height="392" rx="10"/>
-    </clipPath>
-  </defs>
-  <g clip-path="url(#clip)">
-    <rect width="780" height="392" fill="#2E3440"/>
-    <rect width="780" height="4" fill="#88C0D0"/>
-    <rect x="1" y="1" width="778" height="390" rx="9" fill="none" stroke="#3B4252" stroke-width="1"/>
+  <rect width="780" height="392" rx="10" fill="#2E3440"/>
+  <path d="M10,0 H770 Q780,0 780,4 H0 Q0,0 10,0 Z" fill="#88C0D0"/>
+  <rect x="1" y="1" width="778" height="390" rx="9" fill="none" stroke="#3B4252" stroke-width="1"/>
+  <g>
 
     <text x="40" y="46" font-family="'Courier New',Courier,monospace" font-size="26" font-weight="bold" fill="#D8DEE9">katanabe</text>
     <text x="40" y="68" font-family="'Courier New',Courier,monospace" font-size="12" fill="#4C566A">Software Engineer @ ttti llc.  ·  Tokyo, JP</text>
