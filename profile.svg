@@ -12,9 +12,9 @@
     <text x="40" y="108" font-family="'Courier New',Courier,monospace" font-size="10" fill="#88C0D0" letter-spacing="3">NOW</text>
     <text x="410" y="108" font-family="'Courier New',Courier,monospace" font-size="10" fill="#88C0D0" letter-spacing="3">STACK</text>
 
-    <text x="40" y="128" font-family="'Courier New',Courier,monospace" font-size="13" fill="#D8DEE9">› hono-inertia-blog</text>
-    <text x="40" y="148" font-family="'Courier New',Courier,monospace" font-size="13" fill="#D8DEE9">› rails-blog</text>
-    <text x="40" y="168" font-family="'Courier New',Courier,monospace" font-size="13" fill="#D8DEE9">› dotfiles</text>
+    <text x="40" y="128" font-family="'Courier New',Courier,monospace" font-size="13" fill="#D8DEE9">› dotfiles</text>
+    <text x="40" y="148" font-family="'Courier New',Courier,monospace" font-size="13" fill="#D8DEE9">› hono-inertia-blog</text>
+    <text x="40" y="168" font-family="'Courier New',Courier,monospace" font-size="13" fill="#D8DEE9">› rails-blog</text>
 
     <text x="410" y="128" font-family="'Courier New',Courier,monospace" font-size="13" fill="#D8DEE9">TypeScript · Vue · Python</text>
     <text x="410" y="148" font-family="'Courier New',Courier,monospace" font-size="13" fill="#4C566A">css · glsl · go template</text>
